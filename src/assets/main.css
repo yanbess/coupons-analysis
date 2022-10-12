@@ -1,0 +1,21 @@
+@import "./base.css";
+
+#app {
+  margin: 0 auto;
+  font-weight: normal;
+}
+
+.page-title-box {
+  padding-bottom: 1.25rem;
+}
+.card {
+  margin-bottom: 1.25rem;
+  -webkit-box-shadow: 0 2px 4px rgb(15 34 58 / 12%);
+  box-shadow: 0 2px 4px rgb(15 34 58 / 12%);
+}
+body .page-content {
+  margin-top: 2rem;
+}
+.container-fluid {
+  max-width: 85%;
+}
